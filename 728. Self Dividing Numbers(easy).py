@@ -13,5 +13,3 @@ class Solution(object):
             if isDividing(i):
                 res.append(i)
         return res
-
-        
